@@ -100,3 +100,25 @@ footer {
     top: 177px;
     z-index: 0;
 }
+#load-image {
+    width:"15%";
+}
+#load-image1 {
+    width:"61%";
+}
+#load-image2 {
+    width:"24%";
+    align;"center";
+}
+#load-image3 {
+    width:"80%";
+}
+#load-image4 {
+    width:"20%";
+    align;"left";
+}
+
+#comments {
+    style="width:622px;"
+    align="center"
+}
